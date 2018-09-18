@@ -1,0 +1,7 @@
+{
+  "name": "qoreBLE",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
